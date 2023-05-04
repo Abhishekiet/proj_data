@@ -12,5 +12,19 @@
             "time" : 10,
             "desc" : "Wounderful"
         }
+    ],
+     "fav":[
+        {
+            "id" : 1,
+            "title": "Deepali",
+            "time" : 20,
+            "desc" : "Wounderful"
+        },
+        {
+            "id" : 2,
+            "title": "Roti",
+            "time" : 10,
+            "desc" : "Wounderful"
+        }
     ]
 }
